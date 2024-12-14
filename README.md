@@ -1,5 +1,5 @@
 # MSPM0G3507 Mini Development Board
-
+![](https://github.com/YahboomTechnology/dofbot-jetson_nano/blob/master/DOFBOT.jpg)
 # Introduction
 The MSPM0G3507 development board is designed for embedded system development and provides flexible and efficient hardware platform support. It uses the low-power MSP430G3507 chip with 128K flash memory and 32KB SRAM. It supports multiple I/O interfaces, including GPIO, SPI, UART, I2C, etc., which can meet the needs of various different application scenarios. Yahboom designed reset and custom buttons for it, as well as two custom LED lights. The Type-C interface is used to write and download programs. The SWD debugging interface is also reserved, user can solder the pins by himself, the DP-LINK simulation online debugging code can be realized. If you need to build some smart home sensors, smart cars and other devices, this will be a very cost-effective development board.
 
